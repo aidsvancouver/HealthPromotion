@@ -1,3 +1,7 @@
+body {
+	font-family: 'Lato', sans-serif;
+}
+
 .jumbotron {
 	background: url(../img/hero.jpg) no-repeat center bottom;
 	background-size: 100%;
@@ -6,4 +10,20 @@
 
 a {
 	color: #529266;
+}
+
+h1, h2, h3 {
+	color: #e4a415;
+}
+
+.logo {
+	margin-bottom: 2em;
+}
+
+.panel h3 {
+	margin-top: 0;
+}
+
+footer {
+	min-height: 200px;
 }
